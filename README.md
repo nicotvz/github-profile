@@ -15,7 +15,7 @@ In search of my first job, where I can continue to grow professionally as a deve
   
 I'm open to collaborating on challenging projects.
 </p>
-
+<br>
 <div align="center">
   <h4>Connect with Me</h4>
     <a href="mailto:nicotevez.dev@gmail.com"><img src="https://img.shields.io/badge/e--mail-EA4335?style=for-the-badge&logo=gmail&labelColor=black&color=1A1A1A" align="center"></a>
