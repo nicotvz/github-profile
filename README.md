@@ -1,5 +1,3 @@
-<img src="https://img.shields.io/github/watchers/nicotvz/nicotvz?style=for-the-badge&logo=github&labelColor=black&color=1A1A1A" align="right">
-
 <h1>Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Nico</h1>
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-9pemys3Z0x6xzxDoKsB3h1b5dKswDSlmDICTJsc8HSM60lO_PhS_oh3TcpKDaYfKWY1geTP4gqyQXrEFGHaZXo7iGwqwePiTRKBahc9eU1dE0mbm2AHoMcBN0U9MiB21hz-II8ITpHz_F_xrKS8f-ML66MCqa5Heq8hDRFOK8AEKC8W8CtpzBf1zA/d/v1-011020-mandalorian-mobile-4k.png" align="right" width="150px"></img>
@@ -21,8 +19,6 @@ I'm open to collaborating on challenging projects.
     <a href="mailto:nicotevez.dev@gmail.com"><img src="https://img.shields.io/badge/e--mail-EA4335?style=for-the-badge&logo=gmail&labelColor=black&color=1A1A1A" align="center"></a>
     <a href="https://www.linkedin.com/in/nicolastevez/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&labelColor=black&logoColor=0A66C2&color=1A1A1A" align="center"></a>
 </div>
-<br>
-<br>
 
 -----
 ### Tech Stack
