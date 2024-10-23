@@ -23,6 +23,7 @@ I'm open to collaborating on challenging projects.
     <a href="mailto:nicolastevez.dev@gmail.com"><img src="https://img.shields.io/badge/e--mail-EA4335?style=for-the-badge&logo=gmail&labelColor=black&color=1A1A1A" align="center"></a>
     <a href="https://www.linkedin.com/in/nicolastevez/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&labelColor=black&logoColor=0A66C2&color=1A1A1A" align="center"></a>
 </div>
+<br>
 
 -----
 ### Tech Stack
