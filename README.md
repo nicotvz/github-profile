@@ -1,6 +1,6 @@
 <h1>Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Nico</h1>
 
-<img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" align="right" width="280px"></img>
+<img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" align="right" width="300px"></img>
   
 <p>
 I'm 18 years old and I've had a passion for computers and everything related to them since I was a child.
