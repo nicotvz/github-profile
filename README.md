@@ -54,8 +54,9 @@ In search of my first job, where I can continue to grow professionally as a deve
 ![CHATGPT](https://img.shields.io/badge/chatgpt-74aa9c?style=for-the-badge&logo=openai&logoColor=74aa9c&labelColor=black)
 ![BRAVE](https://img.shields.io/badge/brave-FB542B?style=for-the-badge&logo=brave&logoColor=FB542B&labelColor=black)
 
-![PS](https://img.shields.io/badge/photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=001e36&labelColor=black)
 ![FIGMA](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=23F24E1E&labelColor=black)
+![PS](https://img.shields.io/badge/photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=001e36&labelColor=black)
+![ILL](https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=black)
 
 #### -Meetings
 ![DS](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&labelColor=black)
