@@ -24,13 +24,11 @@ I'm MERN developer in continuous learning, and my goal of reaching a high level 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=black)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&labelColor=black)
-![React Native](https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&labelColor=black)
 ![Tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=black)
 
 ![Node](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=5FA04E&labelColor=black)
-![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&labelColor=black)
+![Express](https://img.shields.io/badge/express.js-0f0f0f?style=for-the-badge&logo=express&labelColor=black)
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&labelColor=black)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=black)
 
 ![Firebase](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=DD2C00&labelColor=black)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&labelColor=black)
@@ -38,26 +36,24 @@ I'm MERN developer in continuous learning, and my goal of reaching a high level 
 
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&labelColor=black)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&labelColor=black)
 
 #### Software & Tools
-![W11](https://img.shields.io/badge/windows_11-45a5f5?style=for-the-badge&logo=awwwards&logoColor=45a5f5&labelColor=black)
 ![VSCode](https://img.shields.io/badge/visual_studio_code-00a9e7?style=for-the-badge&logo=codecrafters&logoColor=00a9e7&labelColor=black)
 ![ChatGPT](https://img.shields.io/badge/chatgpt-74aa9c?style=for-the-badge&logo=openai&logoColor=74aa9c&labelColor=black)
-![Brave](https://img.shields.io/badge/brave-FB542B?style=for-the-badge&logo=brave&logoColor=FB542B&labelColor=black)
 
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&labelColor=black)
+![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&labelColor=black)
+![Brave](https://img.shields.io/badge/brave-FB542B?style=for-the-badge&logo=brave&logoColor=FB542B&labelColor=black)
+![W11](https://img.shields.io/badge/windows_11-45a5f5?style=for-the-badge&logo=awwwards&logoColor=45a5f5&labelColor=black)
+
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=23F24E1E&labelColor=black)
 ![Photoshop](https://img.shields.io/badge/photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=001e36&labelColor=black)
 ![Illustrator](https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=black)
 
-#### Meetings
-![Zoom](https://img.shields.io/badge/zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=2D8CFF&labelColor=black)
-![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=tvtime&logoColor=6264A7&labelColor=black)
-
 #### Socials
-<a href="https://www.linkedin.com/in/nicolastevez" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&labelColor=black" alt="LinkedIn"></a>
 <a href="mailto:nicotevez.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&labelColor=black" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/nicolastevez" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&labelColor=black" alt="LinkedIn"></a>
 
 -----
 ### 📊 GitHub Analytics
